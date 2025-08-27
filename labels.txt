@@ -1,0 +1,3 @@
+0 Stop
+1 Be Ready
+2 Go
