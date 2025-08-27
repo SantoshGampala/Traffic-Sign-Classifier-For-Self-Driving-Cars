@@ -3,4 +3,5 @@ opencv-python
 tensorflow
 keras
 pillow
+gunicorn
 numpy
